@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Kelvin, a Software Engineer from Singapore.\n![kelvin](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/015/2e9/300614e.jpg)\nWant to know more about Kelvin or contact him directly? %[Tell me more about him](postback:tell_me_more) %[Contact him](postback:contact_him)",
+    "BOT": "Hi there!\nI’m the personal bot of Kelvin, a Software Engineer from Singapore.\n![kelvin](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/015/2e9/300614e.jpg)\nWant to know more about Kelvin or contact him directly? %[Tell me more](postback:tell_me_more) %[Contact him](postback:contact_him)",
     "TELL ME MORE": "Kelvin is the Golden Hobo and if you want to find out more, feel free to connect through the following channels: %[LinkedIn](https://www.linkedin.com/in/kelvintyb) %[GitHub](https://www.github.com/kelvintyb)",
     "CONTACT HIM": "Kelvin is looking to get out of hobohood - contact him now for potential job opportunities! %[Email](mailto:kelvin.tyb@gmail.com)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
